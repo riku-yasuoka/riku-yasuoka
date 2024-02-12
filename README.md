@@ -1,11 +1,10 @@
 # ようこそ、私のGitHubプロフィールへ！
 
 ## 👨‍🎓 学歴
-- 中央大学に在籍
+- 中央大学在籍
 
 ## 💻 技術スタック
 - **言語**: Ruby, JavaScript, TypeScript, Kotlin, Go
-- **フレームワーク**: Next.js, Nuxt.js, Ruby on Rails 
 
 ## 📊 GitHub統計
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riku-yasuoka&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
