@@ -1,8 +1,5 @@
 # ようこそ、私のGitHubプロフィールへ！
 
-## 👨‍🎓 学歴
-- 中央大学在籍
-
 ## 💻 技術スタック
 - **言語**: Ruby, JavaScript, TypeScript, Kotlin, Go
 
@@ -11,8 +8,3 @@
 
 ## 🔝 使用言語
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-yasuoka&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--## 📫 連絡先
-何か質問や相談があれば、お気軽にご連絡ください。
-<!-- 連絡先のリンクや方法をここに記述する -->
-
